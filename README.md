@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Porras</h1>
 <h3 align="center">A passionate Fullstack Developer from United States</h3>
 
-<p align="center">- 🔭 I’m currently working on **PSO2 NGS ARKs Card Generator**</p>
+<p align="center">- 🔭 I’m currently working on **A comission blog site**</p>
 
 <p align="center">- 🤝 I’m Currently collaborating on **PSO2 NGS ARKs Card Generator**</p>
 
