@@ -1,13 +1,13 @@
 [![MasterHead](https://i.imgur.com/lPI5z7T.png)](https://Polymatio.io)
 
 <h1 align="center">Hi 👋, I'm Jesus Porras</h1>
-<h3 align="center">A passionate Fullstack Developer from United States</h3>
+<h3 align="center">A passionate Fullstack Developer at United States</h3>
 
-<p align="center">- 🔭 I’m currently working on **A comission blog site**</p>
+<p align="center">- 🔭 I’m currently working on **Personal Blog Website**</p>
 
-<p align="center">- 🤝 I’m Currently collaborating on **PSO2 NGS ARKs Card Generator**</p>
+<p align="center">- 🤝 I’m Currently collaborating on **Trailkeepers of Oregan**</p>
 
-<p align="center">- 🌱 I’m currently learning **React**</p>
+<p align="center">- 🌱 I’m currently learning **React, PHP**</p>
 
 <p align="center">- 💬 Ask me about **HTML, CSS, JavaScript**</p>
 
