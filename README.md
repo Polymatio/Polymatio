@@ -9,7 +9,7 @@
 
 <p align="center">- 🌱 I’m currently learning **React, PHP**</p>
 
-<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript**</p>
+<p align="center">- 💬 Ask me about **HTML, CSS, JS, Node, Express**</p>
 
 <p align="center">- 📫 How to reach me **jss.prras@outlook.com**</p>
 
