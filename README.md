@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Porras</h1>
 <h3 align="center">A passionate Fullstack Developer at United States</h3>
 
-<p align="center">- 🔭 I’m currently working on **Personal Blog Website**</p>
+<p align="center">- 🔭 I’m currently working on **Music Application**</p>
 
 <p align="center">- 🤝 I’m Currently collaborating on **Trailkeepers of Oregan**</p>
 
