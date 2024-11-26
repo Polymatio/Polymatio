@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Jesus Porras</h1>
 <h3 align="center">A passionate Fullstack Developer at United States</h3>
 
-<p align="center">- 🔭 I’m currently working on **Music Application**</p>
+<p align="center">- 🔭 I’m currently working on **Art Gallery**</p>
 
 <p align="center">- 🤝 I’m Currently collaborating on **Trailkeepers of Oregan**</p>
 
-<p align="center">- 🌱 I’m currently learning **React, PHP**</p>
+<p align="center">- 🌱 I’m currently learning **NextJS 15**</p>
 
-<p align="center">- 💬 Ask me about **HTML, CSS, JS, Node, Express**</p>
+<p align="center">- 💬 Ask me about **HTML, CSS, JS, Node, Express, ReactJS, Wordpress**</p>
 
 <p align="center">- 📫 How to reach me **jss.prras@outlook.com**</p>
 
